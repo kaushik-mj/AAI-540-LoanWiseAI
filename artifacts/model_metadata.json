@@ -1,0 +1,7 @@
+{
+    "project": "Loan Approval Prediction",
+    "model_name": "best_model",
+    "artifact": "s3://sagemaker-us-east-1-612256167011/loanwise/model-registry/model.tar.gz",
+    "framework": "Scikit-Learn/XGBoost",
+    "status": "Approved"
+}

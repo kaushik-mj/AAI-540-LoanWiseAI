@@ -1,0 +1,11 @@
+{
+    "Pipeline": "LoanApprovalPipeline",
+    "Steps": [
+        "Data Validation",
+        "Feature Validation",
+        "Model Validation",
+        "Evaluation Validation",
+        "Deployment Approval"
+    ],
+    "Status": "Approved"
+}
